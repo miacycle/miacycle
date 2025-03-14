@@ -1,13 +1,6 @@
-<table align="right" border="0px">
-    <tr align="center">
-      <td>
-        <a href= "https://badges.layer5.io" >
-          <img width="224px" src="https://badges.layer5.io/assets/badges/first-interactive-terminal-session/first-interactive-terminal-session.png" alt = "Meshery" /><br />Get your own badge </a>
-  </td>
- </tr>
-</table>
-
-
+<table border="0px" width="100%"> 
+    <tr>
+        <td>
 ## cycle-delic
 
 ```
@@ -19,6 +12,15 @@ interface UserPreferences {
    };
  }
 ```
+</td>
+      <td>
+        <a href= "https://badges.layer5.io" >
+          <img width="224px" src="https://badges.layer5.io/assets/badges/first-interactive-terminal-session/first-interactive-terminal-session.png" alt = "Meshery" /><br />Get your own badge </a>
+  </td>
+ </tr>
+</table>
+
+
 <details>
 <summary>Bicycling in Sydney, Australia</summary>
 
