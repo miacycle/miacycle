@@ -1,6 +1,12 @@
-<a href= "https://badges.layer5.io" >
-  <img width="224px" align="right" src="https://badges.layer5.io/assets/badges/first-interactive-terminal-session/first-interactive-terminal-session.png" alt = "Meshery" />
-</a>
+<table align="right" border="0px">
+    <tr align="center">
+      <td>
+        <a href= "https://badges.layer5.io" >
+          <img width="224px" src="https://badges.layer5.io/assets/badges/first-interactive-terminal-session/first-interactive-terminal-session.png" alt = "Meshery" /><br />Get your own badge </a>
+  </td>
+ </tr>
+</table>
+
 
 ## cycle-delic
 
