@@ -2,7 +2,7 @@
   <img width="224px" align="right" src="https://badges.layer5.io/assets/badges/meshery/meshery.png" alt = "Meshery" />
 </a>
 
-# cycle-delic
+## cycle-delic
 
 ```
 interface UserPreferences {
