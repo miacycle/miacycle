@@ -1,5 +1,5 @@
 <a href= "https://badges.layer5.io" >
-  <img width="224px" align="right" src="https://badges.layer5.io/assets/badges/meshery/meshery.png" alt = "Meshery" />
+  <img width="224px" align="right" src="https://badges.layer5.io/assets/badges/first-interactive-terminal-session/first-interactive-terminal-session.png" alt = "Meshery" />
 </a>
 
 ## cycle-delic
